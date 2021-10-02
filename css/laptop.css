@@ -344,13 +344,13 @@ h2 {
   position: relative;
   top: 40px;
   gap: 12px;
-  background-color: chartreuse;
+  
   text-align: center;
 }
 .options {
   width: 350px;
   height: 60px;
-  background-color: rgb(57, 14, 214);
+  
   justify-content: center;
   vertical-align: middle;
   text-align: center;
