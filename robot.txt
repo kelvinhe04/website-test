@@ -1,0 +1,4 @@
+User-agent:*
+Disallow: /sgi-bin/
+Disallow: /images/
+Disallow: /pages/thankyou.html
