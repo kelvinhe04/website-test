@@ -2,6 +2,6 @@ User-agent: Googlebot
 Disallow: /nogooglebot/
 
 User-agent: *
-Allow: /
+Allow: /search engine visibility/
 
-Sitemap: http://www.example.com/sitemap.xml
+Sitemap: https://rogwebsite.netlify.app/sitemap.xml
