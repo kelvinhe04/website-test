@@ -1,7 +1,0 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
-
-User-agent: *
-Allow: /search engine visibility/
-
-Sitemap: https://rogwebsite.netlify.app/sitemap.xml
